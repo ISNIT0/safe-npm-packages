@@ -1,4 +1,4 @@
 {
 	"grade": "C",
-	"comments": ":robot:\nPackage check failed on Travis.\n\n[see more](https://travis-ci.org/ISNIT0/npm-package-tester/branches)\n\n```\n{\n\t\"message\": \"Failed to exec [tar -zxvf /home/travis/build/ISNIT0/npm-package-tester/tmp/request-promise-native__faf9ae75-67aa-4a33-92c5-58cecad014a4/npm/1.0.5.tgz -C /home/travis/build/ISNIT0/npm-package-tester/tmp/request-promise-native__faf9ae75-67aa-4a33-92c5-58cecad014a4/npm]\",\n\t\"error\": {\n\t\t\"killed\": false,\n\t\t\"code\": 2,\n\t\t\"signal\": null,\n\t\t\"cmd\": \"tar -zxvf /home/travis/build/ISNIT0/npm-package-tester/tmp/request-promise-native__faf9ae75-67aa-4a33-92c5-58cecad014a4/npm/1.0.5.tgz -C /home/travis/build/ISNIT0/npm-package-tester/tmp/request-promise-native__faf9ae75-67aa-4a33-92c5-58cecad014a4/npm\"\n\t}\n}\n```\n"
+	"comments": ":robot:\nPackage check passed on Travis.\n\n[see more](https://travis-ci.org/ISNIT0/npm-package-tester/branches)\n"
 }
