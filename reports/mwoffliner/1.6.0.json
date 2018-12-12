@@ -1,0 +1,4 @@
+{
+	"grade": "C",
+	"comments": ":robot:\nPackage check failed on Travis.\n\n[see more](https://travis-ci.org/ISNIT0/npm-package-tester/branches)\n\n```\n[\n\t{\n\t\t\"file\": \"package.json\",\n\t\t\"diff\": [\n\t\t\t{\n\t\t\t\t\"count\": 2,\n\t\t\t\t\"added\": true,\n\t\t\t\t\"value\": \"\\\"snyk-protect\\\": \\\"snyk protect\\\",\\\"prepare\\\": \\\"npm run snyk-protect\\\",\"\n\t\t\t}\n\t\t]\n\t}\n]\n```\n"
+}
