@@ -1,0 +1,4 @@
+{
+	"grade": "F",
+	"comments": ":robot:\nPackage check failed on Travis.\n\n[see more](https://travis-ci.org/ISNIT0/npm-package-tester/branches)\n\n```\n{\n\t\"stack\": \"Error: Invalid 'package.repository' value, should be an object with keys 'type' and 'url'\\n    at doCheck (/home/travis/build/ISNIT0/npm-package-tester/check-package.js:116:15)\\n    at <anonymous>\\n    at process._tickCallback (internal/process/next_tick.js:189:7)\",\n\t\"message\": \"Invalid 'package.repository' value, should be an object with keys 'type' and 'url'\"\n}\n```\n"
+}
