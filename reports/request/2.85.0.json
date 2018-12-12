@@ -1,0 +1,4 @@
+{
+	"grade": "C",
+	"comments": ":robot:\nPackage check failed on Travis.\n\n[see more](https://travis-ci.org/ISNIT0/npm-package-tester/branches)\n\n```\n[\n\t{\n\t\t\"file\": \"CHANGELOG.md\",\n\t\t\"diff\": [\n\t\t\t{\n\t\t\t\t\"count\": 2,\n\t\t\t\t\"removed\": true,\n\t\t\t\t\"value\": \"### v2.85.0 (2018/03/12)- [#2880](https://github.com/request/request/pull/2880) Revert \\\"Update hawk to 7.0.7 (#2880)\\\" (@simov)\"\n\t\t\t}\n\t\t]\n\t}\n]\n```\n"
+}
