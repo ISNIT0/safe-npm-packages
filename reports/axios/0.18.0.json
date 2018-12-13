@@ -1,4 +1,4 @@
 {
-	"grade": "F",
+	"grade": "A",
 	"comments": ":robot:\nPackage check failed on Travis.\n\n[see more](https://travis-ci.org/ISNIT0/npm-package-tester/branches)\n\n```\n[\n\t{\n\t\t\"file\": \"dist/axios.js\",\n\t\t\"diff\": [\n\t\t\t{\n\t\t\t\t\"count\": 1,\n\t\t\t\t\"removed\": true,\n\t\t\t\t\"value\": \"/* axios v0.18.0 | (c) 2018 by Matt Zabriskie */\"\n\t\t\t}\n\t\t]\n\t},\n\t{\n\t\t\"file\": \"dist/axios.min.js\",\n\t\t\"diff\": [\n\t\t\t{\n\t\t\t\t\"count\": 1,\n\t\t\t\t\"removed\": true,\n\t\t\t\t\"value\": \"/* axios v0.18.0 | (c) 2018 by Matt Zabriskie */\"\n\t\t\t}\n\t\t]\n\t}\n]\n```\n"
 }
