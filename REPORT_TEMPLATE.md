@@ -1,5 +1,5 @@
 
-Rename file to `[package]/version/[DD-MM-YYYY__HH_mm].md` (Date/Time must be UTC)
+Rename file to `[package]/[version]/[DD-MM-YYYY__HH_mm].md` (Date/Time must be UTC)
 
 
 
