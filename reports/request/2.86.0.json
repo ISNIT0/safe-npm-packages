@@ -1,4 +1,0 @@
-{
-	"grade": "C",
-	"comments": ":robot:\nPackage check failed on Travis.\n\n[see more](https://travis-ci.org/ISNIT0/npm-package-tester/branches)\n\n```\n[\n\t{\n\t\t\"file\": \"CHANGELOG.md\",\n\t\t\"diff\": [\n\t\t\t{\n\t\t\t\t\"count\": 4,\n\t\t\t\t\"removed\": true,\n\t\t\t\t\"value\": \"### v2.86.0 (2018/05/15)- [#2885](https://github.com/request/request/pull/2885) Remove redundant code (for Node.js 0.9.4 and below) and dependency (@ChALkeR)- [#2942](https://github.com/request/request/pull/2942) Make Test GREEN Again! (@simov)- [#2923](https://github.com/request/request/pull/2923) Alterations for failing CI tests (@gareth-robinson)\"\n\t\t\t}\n\t\t]\n\t}\n]\n```\n"
-}

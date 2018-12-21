@@ -1,4 +1,0 @@
-{
-	"grade": "C",
-	"comments": ":robot:\nPackage check failed on Travis.\n\n[see more](https://travis-ci.org/ISNIT0/npm-package-tester/branches)\n\n```\n{\n\t\"message\": \"Failed to exec [cd /home/travis/build/ISNIT0/npm-package-tester/tmp/mwoffliner__67ddfc69-611c-42d0-883c-ca739b71e7a0/npm && (npm ci || npm i --no-save)]\",\n\t\"error\": {\n\t\t\"killed\": false,\n\t\t\"code\": 1,\n\t\t\"signal\": null,\n\t\t\"cmd\": \"cd /home/travis/build/ISNIT0/npm-package-tester/tmp/mwoffliner__67ddfc69-611c-42d0-883c-ca739b71e7a0/npm && (npm ci || npm i --no-save)\"\n\t}\n}\n```\n"
-}
